@@ -1,1 +1,1 @@
-# Yolo-v8
+# This project aims to compare the object detection performance in images between two models, YOLO and Faster R-CNN.
